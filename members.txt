@@ -1,3 +1,7 @@
 Användare på GitHub: lnus
 Namn: Linus Wähler
 Epost: linus-sebastian.wahler.9764@student.uu.se
+
+Användare på GitHub: hanserikengs
+Namn: Erik Engström
+Epost: erik.engstrom.2120@student.uu.se
